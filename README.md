@@ -4,8 +4,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Sumyak-Jain&show_icons=true&line_height=30)
 
-![](https://github-readme-stats.vercel.app/api?username=Sumyak-Jain&count_private=true&theme=merko)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumyak-Jain&" /></p>
 
 # Follow me on
