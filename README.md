@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/sumyak-jain/">
-  <img align="left" alt="Linkedin" width="22px" src="https://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Linkedin-icon.png" />
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />
 </a>
 
 <a href="https://www.instagram.com/gaurav_jain0511/">
