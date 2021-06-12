@@ -18,7 +18,7 @@
 </a>
 
 <a href="https://sumyak-jain.medium.com/">
-  <img align="left" alt="Medium" width="35px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" />
+  <img align="left" alt="Medium" width="38px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" />
 </a>
 
 <br>
