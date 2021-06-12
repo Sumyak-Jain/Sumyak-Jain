@@ -21,9 +21,7 @@
   <img align="left" alt="Medium" width="40px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" />
 </a>
 
-<a href="https://www.hackerrank.com/Sumyak_Jain">
-  <img align="left" alt="Instagram" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" />
-</a>
+
 
 <br>
 
