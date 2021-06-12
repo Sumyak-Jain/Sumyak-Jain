@@ -14,7 +14,7 @@
 </a>
 
 <a href="https://www.instagram.com/gaurav_jain0511/">
-  <img align="left" alt="Instagram" width="22px" src="https://c0.klipartz.com/pngpicture/722/1011/gratis-png-icono-de-logo-logo-de-instagram-logo-de-instagram-thumbnail.png" />
+  <img align="left" alt="Instagram" width="22px" src="https://image.similarpng.com/very-thumbnail/2020/05/Glossy-Instagram-logo-PNG.png" />
 </a>
 
 <br>
