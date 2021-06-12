@@ -6,15 +6,15 @@
 
 # Follow me on
 <a href="https://twitter.com/JainSumyak">
-  <img align="left" alt="Twitter" width="22px" src="https://i.pinimg.com/originals/ec/41/47/ec41475eafca0883460602acf1b59e82.png" />
+  <img align="left" alt="Twitter" width="25px" src="https://i.pinimg.com/originals/ec/41/47/ec41475eafca0883460602acf1b59e82.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/sumyak-jain/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />
+  <img align="left" alt="Linkedin" width="25px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />
 </a>
 
 <a href="https://www.instagram.com/gaurav_jain0511/">
-  <img align="left" alt="Instagram" width="22px" src="https://i.dlpng.com/static/png/6355924_preview.png" />
+  <img align="left" alt="Instagram" width="25px" src="https://i.dlpng.com/static/png/6355924_preview.png" />
 </a>
 
 <br>
