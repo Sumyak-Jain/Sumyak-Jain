@@ -6,7 +6,7 @@
 
 # Follow me on
 <a href="https://twitter.com/JainSumyak">
-  <img align="left" alt="Twitter" width="22px" src="https://toppng.com/uploads/preview/twitter-icon-transparent-11549680383mmzgiol88v.png" />
+  <img align="left" alt="Twitter" width="22px" src="https://i.pinimg.com/originals/ec/41/47/ec41475eafca0883460602acf1b59e82.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/sumyak-jain/">
