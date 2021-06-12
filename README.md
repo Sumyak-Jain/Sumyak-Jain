@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello World 👋
 ### I am Sumyak Jain Pursuing B.tech  in Computer Science Engineering with specialization in DevOps at UPES, Dehradun
 
 
@@ -6,7 +6,7 @@
 
 # Follow me on
 <a href="https://twitter.com/JainSumyak">
-  <img align="left" alt="Twitter" width="32px" src="https://i.pinimg.com/originals/ec/41/47/ec41475eafca0883460602acf1b59e82.png" />
+  <img align="left" alt="Twitter" width="35px" src="https://i.pinimg.com/originals/ec/41/47/ec41475eafca0883460602acf1b59e82.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/sumyak-jain/">
@@ -14,7 +14,7 @@
 </a>
 
 <a href="https://www.instagram.com/gaurav_jain0511/">
-  <img align="left" alt="Instagram" width="30px" src="https://i.dlpng.com/static/png/6355924_preview.png" />
+  <img align="left" alt="Instagram" width="35px" src="https://i.dlpng.com/static/png/6355924_preview.png" />
 </a>
 
 <br>
