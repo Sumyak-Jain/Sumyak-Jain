@@ -17,6 +17,10 @@
   <img align="left" alt="Instagram" width="35px" src="https://i.dlpng.com/static/png/6355924_preview.png" />
 </a>
 
+<a href="https://sumyak-jain.medium.com/">
+  <img align="left" alt="Medium" width="35px" src="https://www.vhv.rs/dpng/d/492-4929307_medium-with-circle-linkedin-icon-round-hd-png.png" />
+</a>
+
 <br>
 
 <br>
