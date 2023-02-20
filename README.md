@@ -14,7 +14,7 @@
 </a>
 
 <a href="https://www.instagram.com/gaurav_jain0511/">
-  <img align="left" alt="Instagram" width="35px" src="https://i.dlpng.com/static/png/6355924_preview.png" />
+  <img align="left" alt="Instagram" width="35px" src="https://www.transparentpng.com/thumb/instagram-logo-icon/JTKuuM-instagram-logo-icon-free-transparent.png" />
 </a>
 
 <a href="https://sumyak-jain.medium.com/">
