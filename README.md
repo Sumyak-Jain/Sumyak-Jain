@@ -3,7 +3,7 @@
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Sumyak-Jain&show_icons=true&line_height=30)
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumyak-Jain&" alt="Sumyak-Jain" />
+
 
 # Follow me on
 <a href="https://twitter.com/JainSumyak">
