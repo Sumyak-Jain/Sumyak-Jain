@@ -1,5 +1,5 @@
 # Hello World 👋
-### I am Sumyak Jain A Techie who is Agile and Industrious
+### A Competent DevOps Engineer at Xperi with almost 3 years of experience in the DevOps/SRE
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Sumyak-Jain&show_icons=true&line_height=30)
